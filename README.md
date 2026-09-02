@@ -1,2 +1,3 @@
 # DSA
-my learning journey
+my DSA learning journey 
+author-aditya pstil
