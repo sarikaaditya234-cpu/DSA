@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+int n;
+cout<<"Enter n:";
+cin>>n;
+
+if(n>=90){
+cout<<"A";
+}else if(90>n>=75){
+cout<<"B";
+}else{
+cout<<"C";
+}
+return 0;
+}
